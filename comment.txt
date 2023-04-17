@@ -1,2 +1,3 @@
-this is the place where you can do comments
-j
+this is the place where you can do comments---------
+
+#comment :1  learning something with exitement and patience is very good.
